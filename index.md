@@ -1,4 +1,3 @@
----
-title: Welcome to my blog
----
+## BLOG KIND OF 
 
+Hello evryone 
